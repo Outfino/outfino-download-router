@@ -1,0 +1,17 @@
+{
+  "name": "download-router",
+  "version": "1.0.0",
+  "description": "Device-aware redirect for Outfino app downloads",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "serve": "python3 -m http.server 8080"
+  },
+  "keywords": [
+    "redirect",
+    "device-detection",
+    "app-store"
+  ],
+  "author": "Outfino",
+  "license": "ISC"
+}
